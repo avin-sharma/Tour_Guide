@@ -95,4 +95,103 @@
     </string>
     <string name="action_settings">Settings</string>
 
+    //attractions strings
+    <string name="attraction_0">Sabarmati Ashram</string>
+    <string name="attraction_description_0">"Sabarmati Ashram (also known as Gandhi Ashram, Harijan Ashram, or Satyagraha Ashram) is located in the Sabarmati suburb of Ahmedabad, Gujarat, adjoining the Ashram Road, on the banks of the River Sabarmati, four miles from the town hall. This was one of the residences of Mohandas Karamchand Gandhi, generally called Mahatma Gandhi, who lived there for about twelve years along with his wife, Kasturba Gandhi. It was from his base here that Gandhi led the Dandi march also known as the Salt Satyagraha on 12 March 1930. In recognition of the significant influence that this march had on the Indian independence movement the Indian government has established the ashram as a national monument."</string>
+    <string name="attraction_address_0">Gandhi Smarak Sangrahalaya, Ahmedabad, Gujarat 380027</string>
+
+    <string name="attraction_1">Vastrapur </string>
+    <string name="attraction_description_1">"Vastrapur Lake is situated in western part of Ahmedabad. It is officially named after Narsinh Mehta. The lake was beautified by the AMC after 2002 and has since become a popular spot in the city.
+"
+                "Every weekend, a large number of people visit this lake. It currently boasts an open-air theater and children's park. There is a pathway all around the lake which serves many walkers and joggers in the early mornings and in the evenings.\n"
+                "The lush green lawns surrounding this lake also serve as a central hub of Ahmedabad, wherein various cultural events take place regularly."</string>
+    <string name="attraction_address_1">Vastrapur Lake, Vastrapur, Ahmedabad, Gujarat 380052</string>
+
+    <string name="attraction_2">Manek Chok</string>
+    <string name="attraction_description_2">"This bustling open square near the center of the city functions as a vegetable market in the morning and a jewellery market in the afternoon, the second biggest in India, at an apparently 3 million rupees of annual turnover. It is most famous, however, for its food stalls that start to emerge around 9:30 in the evening and continue till late night, with various local street snacks. Manek chowk is best known for its Kulfi."</string>
+    <string name="attraction_address_2">Manek Chowk, Khadia, Ahmedabad, Gujarat 380001</string>
+
+    <string name="attraction_3">Rani no Hajiro</string>
+    <string name="attraction_description_3">"The courtyard contains eight marble tombs of queens of Ahmed Shah I and other Gujarat Sultanate rulers. They are elaborately carved and inlaid with work of mother-of-pearl and metal.
+"
+                "The principal tomb belongs to Mughalai Bibi, the wife of Muhammad Shah II and mother of Mahmud Begada. It is richly carved in white marble, and girt with a Persian inscription in minute relief. An adjacent tomb in black marble, once inlaid with mother-of-pearl, belongs to Mirki or Murki Bibi, the wife of Shah e Alam, the sister of queen and the daughter of Jam of Sindh. These tombs are covered with rich brocade works, the textile style developed during reign of Ahmed Shah I. The intricate stone tracery and carving is an amalgamation of Hindu, Jain, and Islamic architectural styles. Some Muslim families live inside complex which take care of the tombs"</string>
+    <string name="attraction_address_3">Gandhi Rd, Manek Chowk, Khadia, Ahmedabad, Gujarat 380001</string>
+
+    <string name="attraction_4">Nagina Wadi</string>
+    <string name="attraction_description_4">"Nagina Wadi is a garden themed entertainment ground in the center of the circular Kankaria Lake at the Ahmedabad metropolitan area in Gujarat, India. Built for sole entertainment of the Mughal royals, Nagina Wadi is accessed by a straight, concrete, tree-lined walkway traversing half of the lake. In early 2009, the Ahmedabad Municipal Corporation (AMC) and AIL Amrapali Industries Limited ( Amrapali Group ) built and completed a large lighted musical fountain, featuring brilliant multicolored laser lights displayed during the night."</string>
+    <string name="attraction_address_4">In Center of Kankaria Lake, Kankaria, Ahmedabad, Gujarat 380002</string>
+
+    //Food strings
+    <string name="food_0">"Gordhan Thaal"</string>
+    <string name="food_cuisine_0">"Gujarati"</string>
+    <string name="food_description_0">"11 AM to 3 PM, 7 PM to 10:30 PM"
+                "\nVegetarian Only"
+                "\n₹600 for two people (approx.)"</string>
+    <string name="food_address_0">"Ground Floor, Sapath Complex, Opposite Rajpath Club, S G Highway, Satellite, Ahmedabad\n"
+                "079 26871222\n"
+                "079 26873555\n"
+                "079 26871222"</string>
+
+    <string name="food_1">"Java - Courtyard By Marriott"</string>
+    <string name="food_cuisine_1">"Cafe"</string>
+    <string name="food_description_1">"6:30AM to 11:45PM\n"
+                "₹1,000 for two people (approx.)"</string>
+    <string name="food_address_1">"Courtyard By Marriott, Ramdevnagar Cross Road, Satellite, Ahmedabad\n"
+                "079 30920625"</string>
+
+    <string name="food_2">"Spezia Bistro &amp; Grills House"</string>
+    <string name="food_cuisine_2">"European, Mexican, Italian"</string>
+    <string name="food_description_2">"11 AM to 11 PM\n"
+                "₹1,300 for two people (approx.)"</string>
+    <string name="food_address_2">"Ground Floor, Acropolis Mall, S.G Highway, Thaltej, Ahmedabad\n"
+                "079 30920346\n"
+                "Table booking recommended"</string>
+
+    <string name="food_3">"Hoglatto"</string>
+    <string name="food_cuisine_3">"Desserts, Beverages"</string>
+    <string name="food_description_3">"11 AM to 10:30 PM\n"
+                "₹250 for two people (approx.)"</string>
+    <string name="food_address_3">"GF/8, Galaxy Bazaar Complex, Opposite Himalaya Mall, Sunrise Park Road, Vastrapur, Ahmedabad"</string>
+
+    //Hotel Strings
+    <string name="hotel_0">"Ginger Hotel"</string>
+    <string name="hotel_description_0">"Ginger Ahmedabad rooms have been thoughtfully designed keeping in mind the needs of a business &amp; leisure traveller. All rooms are equipped with comfortable bed and world class amenities which makes Ginger Hotel Ahmedabad one of the finest budget hotels in Ahmedabad."</string>
+    <string name="hotel_address_0">"Ginger Hotel Ahmedabad, Behind Himalaya Mall, Drive-In road, Ahmedabad - 380 015"</string>
+
+    <string name="hotel_1">"Hyatt Regency"</string>
+    <string name="hotel_description_1">"Hyatt Regency Ahmedabad features 210 generously sized luxury rooms including 18 suites and one Presidential Suite. Guestrooms range from 33 to 150 square meters, with rich woods and textures, innovative materials and warm colours are the hallmarks of their design. These guestrooms offer the latest services and facilities to meet the needs of today’s travellers. "</string>
+    <string name="hotel_address_1">"Hyatt Regency Ahmedabad\n"
+                "17/A, Ashram Road\n"
+                "Ahmedabad,  India, 380014\n"
+                "Tel: 91 79 4017 1234"</string>
+
+    <string name="hotel_2">"The Fern"</string>
+    <string name="hotel_description_2">"A business hotel in Ahmedabad , The Fern, is Gujarat’s first ecotel. A contemporary hotel of 96 rooms and suites, the hotel is an elegant combination of European linear design and the deep roots of the traditional Gujarati themes. The hotel’s award-winning experience includes an exclusive club service, executive lounge, spa and indoor swimming pool."</string>
+    <string name="hotel_address_2">"Nr. Sola Overbridge, S.G. Highway,, Ahmedabad Gujrat India -380054\n"
+                "\n"
+                "The Fern An Ecotel Hotel, Ahmedabad"</string>
+
+    <string name="hotel_3">"Fortune Landmark"</string>
+    <string name="hotel_description_3">"Conveniently located in the heart of the city, Fortune Landmark is an upscale, contemporary business hotel in Ahmedabad. The hotel offers first class services and facilities, combining comfort of home with Fortune Hotels’ efficient service."</string>
+    <string name="hotel_address_3">"Fortune Landmark, Ahmedabad\n"
+                "Ashram Road, Ahmedabad - 380013, Gujarat"</string>
+
+    <string name="hotel_4">"Ramada"</string>
+    <string name="hotel_description_4">"Our hotel features 2 meeting rooms, which can be arranged to accommodate 110 conference guests or 400 banquet guests. Plan your next meeting or special event with us. We also arrange great rates for groups — large or small."</string>
+    <string name="hotel_address_4">"Ramada Ahmedabad\n"
+                "Corporate Road, , Ahmedabad, 380015 IN\n"
+                "9-191-794-0250000"</string>
+
+    //Malls Strings
+    <string name="mall_0">Alpha One</string>
+    <string name="mall_description_0">AlphaOne Mall is a shopping mall located at Vastrapur, Ahmedabad, India. The mall was opened in October 2011 and is the largest mixed used city centre in Ahmedabad.</string>
+    <string name="mall_address_0">Plot No-216, Vastrapur, Ahmedabad, Gujarat 380006, India</string>
+
+    <string name="mall_1">Himalaya Mall</string>
+    <string name="mall_description_1">For casual shopping and Movie theater.</string>
+    <string name="mall_address_1">Drive In Road, Nilmani Society, Memnagar, Ahmedabad, Gujarat 380015</string>
+
+    <string name="mall_2">Iscon Mega Mall</string>
+    <string name="mall_description_2">Near Rajpath Club, SG Highway, Ahmedabad, Gujarat 380054</string>
+    <string name="mall_address_2">Near Rajpath Club, SG Highway, Ahmedabad, Gujarat 380054</string>
 </resources>

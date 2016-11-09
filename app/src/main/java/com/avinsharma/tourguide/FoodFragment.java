@@ -49,21 +49,10 @@ public class FoodFragment extends Fragment {
 
     private ArrayList<Place> generateData(){
         ArrayList<Place> places = new ArrayList<>();
-        places.add(new Place("Gordhan Thaal",R.drawable.gordhan_thaal,"Gujarati","11 AM to 3 PM, 7 PM to 10:30 PM" +
-                "\nVegetarian Only" +
-                "\n₹600 for two people (approx.)","Ground Floor, Sapath Complex, Opposite Rajpath Club, S G Highway, Satellite, Ahmedabad\n" +
-                "079 26871222\n" +
-                "079 26873555\n" +
-                "079 26871222"));
-        places.add(new Place("Java++ - Courtyard By Marriott",R.drawable.java,"Cafe","6:30AM to 11:45PM\n" +
-                "₹1,000 for two people (approx.)","Courtyard By Marriott, Ramdevnagar Cross Road, Satellite, Ahmedabad\n" +
-                "079 30920625"));
-        places.add(new Place("Spezia Bistro & Grills House",R.drawable.spezia,"European, Mexican, Italian","11 AM to 11 PM\n" +
-                "₹1,300 for two people (approx.)","Ground Floor, Acropolis Mall, S.G Highway, Thaltej, Ahmedabad\n" +
-                "079 30920346\n" +
-                "Table booking recommended"));
-        places.add(new Place("Hoglatto",R.drawable.hoglatto,"Desserts, Beverages","11 AM to 10:30 PM\n" +
-                "₹250 for two people (approx.)","GF/8, Galaxy Bazaar Complex, Opposite Himalaya Mall, Sunrise Park Road, Vastrapur, Ahmedabad"));
+        places.add(new Place(getString(R.string.food_0),R.drawable.gordhan_thaal,getString(R.string.food_cuisine_0),getString(R.string.food_description_0),getString(R.string.food_address_0    )));
+        places.add(new Place(getString(R.string.food_1),R.drawable.java,getString(R.string.food_cuisine_1),getString(R.string.food_description_1),getString(R.string.food_address_1)));
+        places.add(new Place(getString(R.string.food_2),R.drawable.spezia,getString(R.string.food_cuisine_2),getString(R.string.food_description_2),getString(R.string.food_address_2)));
+        places.add(new Place(getString(R.string.food_3),R.drawable.hoglatto,getString(R.string.food_cuisine_3),getString(R.string.food_description_3),getString(R.string.food_address_3)));
         return places;
     }
 

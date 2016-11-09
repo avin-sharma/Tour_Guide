@@ -8,8 +8,8 @@ import android.support.v4.app.FragmentPagerAdapter;
  * Created by Avin on 06-09-2016.
  */
 public class ViewPagerAdapter extends FragmentPagerAdapter {
-    final int PAGE_COUNT = 3;
-    private String tabTitles[] = new String[] {"Attractions","Food","Hotels"};
+    final int PAGE_COUNT = 4;
+    private String tabTitles[] = new String[] {"Attractions","Food","Hotels","Malls"};
 
     public ViewPagerAdapter(FragmentManager fragmentManager){
         super(fragmentManager);
@@ -26,6 +26,7 @@ public class ViewPagerAdapter extends FragmentPagerAdapter {
             case 0:return new AttractionsFragment();
             case 1:return new FoodFragment();
             case 2:return new HotelsFragment();
+            case 3:return new MallsFragment();
             default: return null;
         }
     }
